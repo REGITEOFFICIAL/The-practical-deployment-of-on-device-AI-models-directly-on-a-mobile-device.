@@ -73,7 +73,7 @@ This framework optimization has been successfully validated across these environ
 
 ## ⚠️ CRITICAL THERMAL & PROMPT SAFETY
 
-> 🔴 **IMPORTANT RESOURCE BOUNDARY:** This is an edge-computed on-device model (~1B parameters), NOT a cloud-scalable server array.
+>  **IMPORTANT RESOURCE BOUNDARY:** This is an edge-computed on-device model (~1B parameters), NOT a cloud-scalable server array.
 >
 > * **Prompt Control:** Keep your context windows short. Do not overload the system with extreme input strings. Control your inputs... or your device will control you!
 > * **Hardware Warning:** **DO NOT** execute local LLM engines on low-end chipsets, or devices with **less than 6GB RAM**. Doing so poses major risks of heavy performance throttling, application kernel panics, or dangerous device overheating.

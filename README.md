@@ -1,0 +1,2 @@
+# The-practical-deployment-of-on-device-AI-models-directly-on-a-mobile-device.
+ The process begins with setting up an Android 13-based virtual environment using BlueStacks Multi-Instance Manager. After initializing the environment, the Google AI Edge Gallery application is installed via the Play Store. Within the application, a compact on-device model (~1B parameters) is downloaded and configured for execution.
